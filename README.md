@@ -1,3 +1,3 @@
 # Gamelet
 
-A starter program for people
+I'm learning how to program in the javascript language. Yay!
