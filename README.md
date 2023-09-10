@@ -1,3 +1,3 @@
 # Gamelet
 
-I'm learning how to program in the javascript language. Yay!
+I'm learning how to program in the javascript language. Yay!!
